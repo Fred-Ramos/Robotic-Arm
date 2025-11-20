@@ -16,8 +16,6 @@ The servo motors are organized as follows:
 
 ![Equations2](https://github.com/user-attachments/assets/9be68ed8-02a3-4eb9-a315-55bdad69f60c)
 
-And the related equations for servo motor control:
-
 ![Equations3](https://github.com/user-attachments/assets/ba1f9c61-c00a-43e2-845d-e16fe89aa68b)
 
 ![Equations4](https://github.com/user-attachments/assets/8b54c8c1-3564-4e37-bff9-0055ed30f961)
