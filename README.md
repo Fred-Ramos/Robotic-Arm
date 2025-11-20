@@ -38,20 +38,3 @@ The robotic arm operates in three modes, which can be activated via keyboard inp
 2. **Mode 2**: This mode works similarly to Mode 1, but allows for the sorting of multiple objects. The user inputs how many pieces to sort, and the robot will sequentially pick and place each piece in the correct box based on its color. The pieces are arranged in a 3x3 grid, and the robot moves through each coordinate to complete the sorting.
 
 3. **Mode 3**: This mode utilizes the ToF sensor to detect pieces regardless of their position in the grid. The robot will search for the pieces, pick them up, check the color, and place them in the corresponding box.
-
-## Equations
-Here are some of the key equations used in the system:
-
-1. **Servo Motor Angle to Duty Cycle Calculation**:
-    - Placeholder for the servo angle calculation equation.
-
-2. **Grid to Polar Coordinates**:
-    - Placeholder for the grid to polar coordinates transformation.
-
-3. **Robot Kinematics**:
-    - Placeholder for the robot kinematics equations related to positioning the arm.
-
-The full equations and their corresponding code can be found in the project code file.
-
-## Conclusion
-This robotic arm project successfully achieves the goal of picking up and sorting pieces based on their color and position. The arm operates in three distinct modes and uses multiple sensors for precise operation. The code is structured to handle the motor control, sensor readings, and piece sorting operations efficiently.
