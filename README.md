@@ -6,23 +6,23 @@ This project involves a robotic arm designed to sort pieces based on their color
 ## Components
 The circuit is shown below:
 
-<img src="https://github.com/user-attachments/assets/bbec209b-13a9-4dc1-a4e5-967e94243ea1" width="40%" />
+<img src="https://github.com/user-attachments/assets/bbec209b-13a9-4dc1-a4e5-967e94243ea1" width="60%" />
 
 The final robot assembled is:
 
-![Robotarm](https://github.com/user-attachments/assets/9ffb8aba-ae2d-4cca-8e13-c6d694672e9c)
+<img src="https://github.com/user-attachments/assets/9ffb8aba-ae2d-4cca-8e13-c6d694672e9c" width="60%" />
 
 The servo motors are organized as follows:
 
-![Equations2](https://github.com/user-attachments/assets/9be68ed8-02a3-4eb9-a315-55bdad69f60c)
+<img src="https://github.com/user-attachments/assets/9be68ed8-02a3-4eb9-a315-55bdad69f60c" width="60%" />
 
-![Equations3](https://github.com/user-attachments/assets/ba1f9c61-c00a-43e2-845d-e16fe89aa68b)
+<img src="https://github.com/user-attachments/assets/ba1f9c61-c00a-43e2-845d-e16fe89aa68b" width="60%" />
 
-![Equations4](https://github.com/user-attachments/assets/8b54c8c1-3564-4e37-bff9-0055ed30f961)
+<img src="https://github.com/user-attachments/assets/8b54c8c1-3564-4e37-bff9-0055ed30f961" width="60%" />
 
 The grid setup for positioning objects is as shown below:
 
-![Equations1](https://github.com/user-attachments/assets/2562e7ec-5642-4453-9b79-32f5bd8020d6)
+<img src="https://github.com/user-attachments/assets/2562e7ec-5642-4453-9b79-32f5bd8020d6" width="60%" />
 
 ## Sensors
 The system incorporates the following sensors:
