@@ -6,7 +6,7 @@ This project involves a robotic arm designed to sort pieces based on their color
 ## Components
 The circuit is shown below:
 
-![Main_circuit](https://github.com/user-attachments/assets/bbec209b-13a9-4dc1-a4e5-967e94243ea1)
+<img src="https://github.com/user-attachments/assets/bbec209b-13a9-4dc1-a4e5-967e94243ea1" width="40%" />
 
 The final robot assembled is:
 
